@@ -33,6 +33,7 @@
       console.log(`Сталася помилка: ${error}`);
     });
 }
+
 // checkCityIsCapital();
 
 
